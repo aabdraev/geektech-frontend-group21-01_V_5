@@ -1,0 +1,6 @@
+export const types = {
+    USER_LOGIN: "USER_LOGIN",
+    USER_LOGOUT: "USER_LOGOUT",
+    HANDLE_ADD: "HANDLE_ADD",
+    HANDLE_CLEAR: "HANDLE_CLEAR"
+}
